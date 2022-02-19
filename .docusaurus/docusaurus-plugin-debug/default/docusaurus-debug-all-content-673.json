@@ -1,0 +1,91 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/",
+          "tagsPath": "/tags",
+          "versionEditUrl": "https://github.com/MemoryDAO/MemoryDAO.git/docs",
+          "versionEditUrlLocalized": "https://github.com/MemoryDAO/MemoryDAO.git/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/weixuefeng/source/gitlab/movie/MemoryDAO/sidebars.js",
+          "contentPath": "/Users/weixuefeng/source/gitlab/movie/MemoryDAO/docs",
+          "contentPathLocalized": "/Users/weixuefeng/source/gitlab/movie/MemoryDAO/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "start",
+          "docs": [
+            {
+              "unversionedId": "start",
+              "id": "start",
+              "isDocsHomePage": false,
+              "title": "Movie DAO",
+              "description": "Cyber Pictures DAO ( 赛博影业)：社群驱动的影业⾃治组织，通过众筹资⾦和投票治理等⽅式，",
+              "source": "@site/docs/start.md",
+              "sourceDirName": ".",
+              "slug": "/docs",
+              "permalink": "/docs",
+              "editUrl": "https://github.com/MemoryDAO/MemoryDAO.git/docs/start.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "slug": "/docs"
+              },
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "start"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  },
+  "postcss-tailwindcss-loader": {
+    "default": null
+  },
+  "docusaurus-plugin-sass": {
+    "default": null
+  },
+  "@cmfcmf/docusaurus-search-local": {
+    "default": null
+  }
+}

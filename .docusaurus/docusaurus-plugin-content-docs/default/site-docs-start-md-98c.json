@@ -1,0 +1,23 @@
+{
+  "unversionedId": "start",
+  "id": "start",
+  "isDocsHomePage": false,
+  "title": "Movie DAO",
+  "description": "Cyber Pictures DAO ( 赛博影业)：社群驱动的影业⾃治组织，通过众筹资⾦和投票治理等⽅式，",
+  "source": "@site/docs/start.md",
+  "sourceDirName": ".",
+  "slug": "/docs",
+  "permalink": "/docs",
+  "editUrl": "https://github.com/MemoryDAO/MemoryDAO.git/docs/start.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/docs"
+  },
+  "sidebar": "tutorialSidebar"
+}
